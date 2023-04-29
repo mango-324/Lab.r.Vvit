@@ -1,0 +1,13 @@
+body {
+ background: #FFB6C1;
+ font-family: Tahoma, Arial, sans-serif; 
+ color: #ffffff;
+}
+
+.content {
+ width: 100%;
+}
+
+form {
+ display: flex;
+}

@@ -1,0 +1,45 @@
+body {
+	background: #FFB6C1;
+	font-family: Tahoma, Arial, sans-serif; 
+	color: #ffffff;
+}
+
+.header img {
+	display: block; 
+	width: 318px; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+.header a {
+	text-decoration: none;
+}
+
+.article {
+	width: 960px; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.post-title {
+	color: #C71585;
+}
+
+.header a h1 {
+	color: #DB7093;
+	text-align: center;
+	font-size: 20px;
+}
+
+.article-author { 
+	width: 50%; 
+	float: left;
+	font-weight: bold;
+	color: #FF69B4;
+}
+
+.article-created-date { 
+	text-align: right;
+	font-style: italic;
+}
+
